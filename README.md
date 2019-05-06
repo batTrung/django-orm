@@ -1,6 +1,6 @@
 # Truy vấn dữ liệu với Django ORM
 
-<a target="_blank" href=""><img src="" alt="" /></a>
+<a target="_blank" href="https://www.djangobat.com/blog/truy-van-du-lieu-voi-django-orm-part-1/"><img src="https://www.djangobat.com/media/posts/2019/05/06/async1.png" alt="" /></a>
 
 
 ## BLOG djangobat
@@ -12,13 +12,13 @@
 Đầu tiên, tải repository về máy tính:
 
 ```bash
-$ git clone https://github.com/batTrung/django-orm-part.git
+$ git clone https://github.com/batTrung/django-orm.git
 ```
 
 Cài đặt requirements:
 
 ```bash
-$ cd django-orm-part
+$ cd django-orm
 $ source env/bin/activate
 ```
 
